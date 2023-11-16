@@ -20,7 +20,7 @@ namespace ConsoleGPT
             double top_p = 1)
         {
             chatRequestUri = "https://api.openai.com/v1/chat/completions";
-            openAIAPIKey = "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"!;
+            openAIAPIKey = "..."!;
             messageHistory = new List<Message>();
             this.includeHistoryWithChatCompletion = includeHistoryWithChatCompletion;
             this.model = model;

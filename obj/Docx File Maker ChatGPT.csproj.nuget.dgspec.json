@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Shadow Dragon\\source\\repos\\Docx File Maker ChatGPT\\Docx File Maker ChatGPT.csproj": {}
+    "D:\\Github\\GPT-Copywriter-.docx\\Docx File Maker ChatGPT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Shadow Dragon\\source\\repos\\Docx File Maker ChatGPT\\Docx File Maker ChatGPT.csproj": {
+    "D:\\Github\\GPT-Copywriter-.docx\\Docx File Maker ChatGPT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Shadow Dragon\\source\\repos\\Docx File Maker ChatGPT\\Docx File Maker ChatGPT.csproj",
+        "projectUniqueName": "D:\\Github\\GPT-Copywriter-.docx\\Docx File Maker ChatGPT.csproj",
         "projectName": "Docx File Maker ChatGPT",
-        "projectPath": "C:\\Users\\Shadow Dragon\\source\\repos\\Docx File Maker ChatGPT\\Docx File Maker ChatGPT.csproj",
+        "projectPath": "D:\\Github\\GPT-Copywriter-.docx\\Docx File Maker ChatGPT.csproj",
         "packagesPath": "C:\\Users\\Shadow Dragon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Shadow Dragon\\source\\repos\\Docx File Maker ChatGPT\\obj\\",
+        "outputPath": "D:\\Github\\GPT-Copywriter-.docx\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
