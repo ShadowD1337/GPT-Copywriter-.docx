@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Docx File Maker ChatGPT", "Docx File Maker ChatGPT.csproj", "{50AAB22C-9D04-40E9-A5B2-A253FADE95CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50AAB22C-9D04-40E9-A5B2-A253FADE95CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50AAB22C-9D04-40E9-A5B2-A253FADE95CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50AAB22C-9D04-40E9-A5B2-A253FADE95CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50AAB22C-9D04-40E9-A5B2-A253FADE95CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34A0953C-E01E-494A-AC1F-D490C5B64113}
+	EndGlobalSection
+EndGlobal

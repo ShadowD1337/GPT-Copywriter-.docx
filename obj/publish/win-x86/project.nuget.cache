@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nJybmsm+DhyS1q+m7b4Ut9TK3YHZQG0Rkb3gpCON0umP6wqh5Ooc2sBtx/seDzm/lDnQDfyHkpYjAqR6IOaq7g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shadow Dragon\\source\\repos\\Docx File Maker ChatGPT\\Docx File Maker ChatGPT.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shadow Dragon\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Shadow Dragon\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Shadow Dragon\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Shadow Dragon\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.16\\microsoft.netcore.app.crossgen2.win-x64.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

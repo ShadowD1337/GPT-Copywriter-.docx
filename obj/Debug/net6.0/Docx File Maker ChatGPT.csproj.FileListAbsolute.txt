@@ -1,0 +1,17 @@
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\bin\Debug\net6.0\Docx File Maker ChatGPT.exe
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\bin\Debug\net6.0\Docx File Maker ChatGPT.deps.json
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\bin\Debug\net6.0\Docx File Maker ChatGPT.runtimeconfig.json
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\bin\Debug\net6.0\Docx File Maker ChatGPT.dll
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\bin\Debug\net6.0\Docx File Maker ChatGPT.pdb
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.csproj.AssemblyReference.cache
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.csproj.ResolveComReference.cache
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.AssemblyInfoInputs.cache
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.AssemblyInfo.cs
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.csproj.CoreCompileInputs.cache
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.dll
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\refint\Docx File Maker ChatGPT.dll
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.pdb
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\Docx File Maker ChatGPT.genruntimeconfig.cache
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\obj\Debug\net6.0\ref\Docx File Maker ChatGPT.dll

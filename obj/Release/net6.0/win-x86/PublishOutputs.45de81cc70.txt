@@ -1,0 +1,2 @@
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\bin\Release\net6.0\win-x86\app.publish\Docx File Maker ChatGPT.pdb
+C:\Users\Shadow Dragon\source\repos\Docx File Maker ChatGPT\bin\Release\net6.0\win-x86\app.publish\Docx File Maker ChatGPT.exe

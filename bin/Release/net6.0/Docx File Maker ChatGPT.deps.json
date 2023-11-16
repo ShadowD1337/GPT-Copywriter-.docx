@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Docx File Maker ChatGPT/1.0.0": {
+        "runtime": {
+          "Docx File Maker ChatGPT.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Docx File Maker ChatGPT/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
